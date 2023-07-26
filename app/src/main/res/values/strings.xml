@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InfobyteTechAssign</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="gen_otp">Generate OTP</string>
+    <string name="otp_activity_header">OTP Verification</string>
+    <string name="otp_descrip">We will send you an One Time Password on this mobile number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
